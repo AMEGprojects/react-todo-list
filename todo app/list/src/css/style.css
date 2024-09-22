@@ -1,0 +1,13 @@
+.inline_header{
+    color: rgb(56, 17, 230);
+    background-color: bisque;
+    font-size: 100px;
+
+}
+
+.outline_header{
+    color: rgb(155, 230, 17);
+    background-color: rgb(6, 181, 235);
+    font-size: 100px;
+
+}
